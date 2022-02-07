@@ -13,6 +13,8 @@ sampleDict = {
    }
 }
 
+history = sampleDict["history"]
+print(history)
 
 
 
